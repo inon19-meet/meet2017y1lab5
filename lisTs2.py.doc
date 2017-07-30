@@ -1,0 +1,7 @@
+
+>>> dog = 'dalmatian'
+>>> len(dog)
+9
+>>> dogs = [dog,'poodle','boxer']
+>>> len(dogs)
+3
